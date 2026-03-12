@@ -65,11 +65,12 @@ padding:30px;
 width:280px;
 border-radius:16px;
  transition:.3s;
-/* box-shadow:0 5px 15px rgba(0,0,0,0.1); */
+ border: 1px solid #f4f4f4;
 }
 .team-box:hover{
      box-shadow: 5px 5px rgb(245, 245, 245);
    transform:translateY(-8px);
+  
 }
 
 .team-box h3{
